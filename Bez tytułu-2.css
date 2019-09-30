@@ -1,0 +1,43 @@
+#image {
+    height: 400px;
+}
+
+body {
+    padding-top: 65px;
+    background-color: darkgrey;
+}
+
+#title, h1, .message, .intro {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+.intro {
+    font-size: 16px;
+    padding: 20px;
+}
+
+#mail {
+    margin: 50px;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+.place {
+    font-family: 'Pacifico';
+    font-size: 22px;
+    text-align: center;
+    padding: 20px;
+}
+
+#bla {
+    height: 6px;
+	background: url(http://ibrahimjabbari.com/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
+#idea {
+    width: 500px;
+    height: 60px;
+}
